@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\bin\Debug\wLoadFile.exe.config
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\bin\Debug\wLoadFile.exe
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\bin\Debug\wLoadFile.pdb
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.Form1.resources
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.Properties.Resources.resources
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.exe
+C:\Users\Usuario\source\repos\wLoadFile\wLoadFile\obj\Debug\wLoadFile.pdb
