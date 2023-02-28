@@ -1,0 +1,16 @@
+C:\Users\57323\source\repos\cnArticles\cnArticles\bin\Debug\cnArticles.exe.config
+C:\Users\57323\source\repos\cnArticles\cnArticles\bin\Debug\cnArticles.exe
+C:\Users\57323\source\repos\cnArticles\cnArticles\bin\Debug\cnArticles.pdb
+C:\Users\57323\source\repos\cnArticles\cnArticles\obj\Debug\cnArticles.csproj.AssemblyReference.cache
+C:\Users\57323\source\repos\cnArticles\cnArticles\obj\Debug\cnArticles.csproj.SuggestedBindingRedirects.cache
+C:\Users\57323\source\repos\cnArticles\cnArticles\obj\Debug\cnArticles.csproj.CoreCompileInputs.cache
+C:\Users\57323\source\repos\cnArticles\cnArticles\obj\Debug\cnArticles.exe
+C:\Users\57323\source\repos\cnArticles\cnArticles\obj\Debug\cnArticles.pdb
+C:\Users\juanj\Desktop\cnArticles\cnArticles\bin\Debug\cnArticles.exe.config
+C:\Users\juanj\Desktop\cnArticles\cnArticles\bin\Debug\cnArticles.exe
+C:\Users\juanj\Desktop\cnArticles\cnArticles\bin\Debug\cnArticles.pdb
+C:\Users\juanj\Desktop\cnArticles\cnArticles\obj\Debug\cnArticles.csproj.AssemblyReference.cache
+C:\Users\juanj\Desktop\cnArticles\cnArticles\obj\Debug\cnArticles.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanj\Desktop\cnArticles\cnArticles\obj\Debug\cnArticles.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\cnArticles\cnArticles\obj\Debug\cnArticles.exe
+C:\Users\juanj\Desktop\cnArticles\cnArticles\obj\Debug\cnArticles.pdb
